@@ -16,13 +16,13 @@
 
     {"key":"csp_AList","name":"💕AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}},
     // FongMi
-    {"key":"量子","name":"🍒量子(直连)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
-    {"key":"非凡","name":"🍒非凡(直连)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
+   // {"key":"量子","name":"🍒量子(直连)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
+   // {"key":"非凡","name":"🍒非凡(直连)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
     //{"key":"51smt4.xyz","name":"🍒成人01(直连)","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"filterable":1},
-    {"key":"cjmygzy.com","name":"🍒成人02(直连)","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
+   // {"key":"cjmygzy.com","name":"🍒成人02(直连)","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
     //{"key":"secj8.com","name":"🍒成人03(直连)","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
-    {"key":"jcspcj8.com","name":"🍒成人04(直连)","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"filterable":1},
-    {"key":"bttcj.com","name":"🍒成人05(直连)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
+   // {"key":"jcspcj8.com","name":"🍒成人04(直连)","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"filterable":1},
+  //  {"key":"bttcj.com","name":"🍒成人05(直连)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
     {"key":"apilj.com","name":"🍒成人06(墙外)","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"filterable":1},
     {"key":"wmcj8.com","name":"🍒成人07(直连)","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"filterable":1},
     {"key":"99zywcj.com","name":"🍒成人08(直连)","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
